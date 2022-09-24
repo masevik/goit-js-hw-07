@@ -52,3 +52,5 @@ function onShowModal(event) {
 
   instance.show();
 }
+
+console.log(123);
